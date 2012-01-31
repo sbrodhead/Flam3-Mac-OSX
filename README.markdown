@@ -29,7 +29,10 @@ Flam3 is licensed under <a href="http://www.gnu.org/licenses/gpl-3.0.html">GNU P
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ###Pre-built Binaries For Mac Snow Leopard and Lion
-This site will provide convenient binaries for the Flam3  executables.
+A convenient binary download Zip file for the Flam3  executables and the flam3-palettes.xml.
+
+###Flam3 Documentation
+See <a href="http://code.google.com/p/flam3/wiki/Introduction">Flam3 Project Website</a>.
 
 ### Mac Specific Customization
 The original Flam3 project is quite portable among Unix derived operating systems (Mac OS X is derived from BSD Unix). However, some recent Mac specific updates, for instance, application sandboxing under Mac Lion, make the original Flam3 command line executables unusable as a plugin Flame renderer to a sandboxed client application. 
